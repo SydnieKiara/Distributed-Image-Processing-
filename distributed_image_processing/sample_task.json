@@ -9,7 +9,7 @@
         {
             "client_id": "client2",
             "task_type": "grayscale",
-            "task_type":"edge_detect",
+            
             "image_name": "kitty.jpg"
         },
         {
